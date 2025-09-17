@@ -1,5 +1,4 @@
 package by.vadarod.practice_task1;
-
 import java.util.Scanner;
 
 public class Task1_6 {

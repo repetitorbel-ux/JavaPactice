@@ -19,6 +19,5 @@ public class Task1_2 {
         x+=y;
         y*=z;
         System.out.println("x + y = " + x + "  " + "y + z = " + z);
-
     }
 }
