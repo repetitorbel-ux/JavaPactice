@@ -44,13 +44,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### Other ####
-FFDC/
-mqjms.*
-log/
-logs
-logs/*
-*.log
-*.log.*
-!ceph-lib-app-1.0.0-jar-with-dependencies.jar
-/LOG_PATH_IS_UNDEFINED/
+### Mac OS ###
+.DS_Storesrc/by/vadarod/task3Bogdan/
+l\357\200\272Java_Coreset.txt
+src/by/vadarod/practice_task4/Task.java
